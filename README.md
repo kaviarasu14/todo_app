@@ -22,7 +22,7 @@ A modern, cross-platform Todo Task Management Mobile Application built using **F
 
 | Login Page | Homepage | Task Form |  Nav Bar | Filter Dropdown |
 |------------|----------|-----------|----------|-----------------|
-| ![Login](assets/login_page.jpg) | ![Home](assets/homepage.jpg) | ![Form](assets/task_form.jpg) | ![Nav](assets/nav_bar.jpg) | ![Filter](assets/filter_button.jpg) |
+| ![Login](lib/assets/login_page.jpg) | ![Home](lib/assets/homepage.jpg) | ![Form](lib/assets/task_form.jpg) | ![Nav](lib/assets/nav_bar.jpg) | ![Filter](lib/assets/filter_button.jpg) |
 
 ---
 
