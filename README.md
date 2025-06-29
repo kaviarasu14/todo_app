@@ -1,16 +1,31 @@
-# todo
+# Flutter Todo Task Management App 📝
 
-A new Flutter project.
+A modern, cross-platform Todo Task Management Mobile Application built using **Flutter** with **Firebase** backend. The app enables users to sign in with google account, manage tasks with full CRUD functionality, filter/sort tasks, and enjoy a clean, responsive user interface with offline support.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Google login via Firebase Authentication
+- 📝 Add, edit, delete tasks
+- 🗂️ Filter tasks: All, Completed, Incomplete
+- 🚦 Priority-based sorting (High to Low)
+- 📅 Due date for task
+- ✅ Swipe to mark task as complete/incomplete
+- 📶 Offline caching (Instant load and access)
+- 🔄 Pull-to-refresh for manual sync
+- 🎨 Clean and responsive UI with subtle animations
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+| Login Page | Homepage | Task Form |  Nav Bar | Filter Dropdown |
+|------------|----------|-----------|----------|-----------------|
+| ![Login](lib/assets/login_page.jpg) | ![Home](lib/assets/homepage.jpg) | ![Form](lib/assets/task_form.jpg) | ![Nav](lib/assets/nav_bar.jpg) | ![Filter](lib/assets/filter_button.jpg) |
+
+---
+
+🎥 [Watch Demo Video](https://drive.google.com/file/d/1WBx8D_JDeybCx9xI2OjJ1qo22Ih3Z7E0/view?usp=drivesdk)
+
+This project is a part of a hackathon run by https://www.katomaran.com
