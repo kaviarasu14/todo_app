@@ -31,9 +31,6 @@ A modern, cross-platform Todo Task Management Mobile Application built using **F
 
 The app follows the **MVVM (Model-View-ViewModel)** pattern using **Provider** for state management.
 
-### Architecture Diagram
-| ![Architecture Diagram](lib/assets/architecture.jpg) |
-
 ---
 
 🎥 [Watch Demo Video](https://drive.google.com/file/d/1WBx8D_JDeybCx9xI2OjJ1qo22Ih3Z7E0/view?usp=drivesdk)
