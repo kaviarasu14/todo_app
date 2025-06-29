@@ -18,6 +18,7 @@ A modern, cross-platform Todo Task Management Mobile Application built using **F
 
 ---
 
+
 ## 📱 Screenshots
 
 | Login Page | Homepage | Task Form |  Nav Bar | Filter Dropdown |
@@ -26,6 +27,18 @@ A modern, cross-platform Todo Task Management Mobile Application built using **F
 
 ---
 
+## 🏗️ Architecture
+
+The app follows the **MVVM (Model-View-ViewModel)** pattern using **Provider** for state management.
+
+### Architecture Diagram
+![Architecture Diagram](lib/assets/architecture.png)
+
+---
+
 🎥 [Watch Demo Video](https://drive.google.com/file/d/1WBx8D_JDeybCx9xI2OjJ1qo22Ih3Z7E0/view?usp=drivesdk)
+In the video, I explain the structure, features, and working of the app.
+
+---
 
 This project is a part of a hackathon run by https://www.katomaran.com
